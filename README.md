@@ -87,7 +87,7 @@ Os modelos são avaliados em um conjunto de teste (20% dos dados). O Random Fore
 
 ## Autores
 
-Cristiano Roberto Câmara
-Eric Soares Dias
-Renan Costa Filgueiras
-Willian Gonçalves de Freitas
+- Cristiano Roberto Câmara
+- Eric Soares Dias
+- Renan Costa Filgueiras
+- Willian Gonçalves de Freitas
