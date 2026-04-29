@@ -31,7 +31,7 @@ A coluna `Unnamed: 32` deve ser removida, pois contém apenas valores nulos.
 
 ## Requisitos
 
-- Python 3.8+
+- Python 3.8+ Manual de instalação Python: https://docs.python.org/3/tutorial/index.html
 
 Instalação das dependências:
 
