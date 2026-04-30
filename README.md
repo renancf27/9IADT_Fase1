@@ -37,6 +37,7 @@ Instalação das dependências:
 
 ```bash
 pip install numpy pandas seaborn matplotlib scikit-learn
+!pip install shap -q
 ```
 
 ## Execução
