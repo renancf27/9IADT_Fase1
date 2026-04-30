@@ -23,6 +23,7 @@ A coluna `Unnamed: 32` deve ser removida, pois contém apenas valores nulos.
 
 ```
 .
+├── techchallenge.ipynb
 ├── techchallenge.py
 ├── data.csv
 ├── README.md
