@@ -11,6 +11,12 @@ Desenvolver e avaliar modelos supervisionados capazes de prever o diagnóstico c
 ## Dataset
 Fonte: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
+##Notebook Tech Challenge
+https://colab.research.google.com/drive/1QOF-LYYT3486OEfxN6jDCJ3Ptvq9r2ZJ?usp=sharing#scrollTo=US-TzilXlDXK
+
+##Notebook Tech Challenge Desafio Extra
+https://colab.research.google.com/drive/1ck7NXZDEjTLQmMx1s7A9-AVFTE8lyFyn?usp=sharing#scrollTo=ec0LgqsycZwl
+
 Características:
 - 569 amostras
 - 30 atributos numéricos
